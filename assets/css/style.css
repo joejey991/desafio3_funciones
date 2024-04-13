@@ -1,0 +1,47 @@
+body {
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 25px;
+    width: 300px;
+}
+
+.container h1, h2 {
+    background-color: blue;
+    color: white;
+}
+
+.color-div {
+    width: 200px;
+    height: 200px;
+}
+
+#div-azul {
+    background-color: blue;
+}
+
+#div-rojo {
+    background-color: red;
+}
+
+#div-verde {
+    background-color: green;
+}
+
+#div-amarillo {
+    background-color: yellow;
+}
+
+#key {
+    background-color: white;
+    border: 1px solid black;
+}
